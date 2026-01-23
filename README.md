@@ -4,16 +4,19 @@
 📊 Data Analyst | Data Scientist  
 
 ## About Me
-Artificial Intelligence graduate with strong skills in data analysis, machine learning, and data visualization.
-Passionate about solving real-world problems using data-driven approaches.
+Artificial Intelligence graduate from Tafila Technical University with hands-on experience in data analysis, machine learning, NLP, and image recognition projects.  
+Passionate about transforming data into actionable insights, building scalable solutions, and contributing to innovative AI applications.  
 
 ## Skills
-- Python, SQL, R
-- Data Analysis (Pandas, NumPy, Excel)
-- Data Visualization (Tableau, Power BI, Matplotlib)
-- Machine Learning (Scikit-learn, TensorFlow)
-- Databases: MySQL, Oracle, BigQuery
-- Tools & Development Environments: VS Code, PyCharm, Jupyter Notebook, Google Colab
+- Programming: Python, C++, Java, SQL, R
+- Data Science: Data Analysis, Data Visualization, Statistical Analysis
+- Machine Learning: Supervised & Unsupervised Learning, Model Evaluation
+- Deep Learning: Neural Networks, CNNs
+- NLP: Text Processing, Feature Extraction
+- Big Data & Databases: Spark, BigQuery, MySQL, Microsoft SQL Server, Oracle
+- Tools & Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn
+- Data Analytics Tools: Excel, Google Sheets, Tableau, Power BI
+- Development Environments: VS Code, PyCharm, Jupyter Notebook, Google Colab, RStudio
 - Version Control: Git, GitHub
 
 ## Featured Projects
@@ -24,4 +27,4 @@ Passionate about solving real-world problems using data-driven approaches.
 
 ## Contact
 - Email: hamzaalhadidi34@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/hamza-alhadidi-288524291/
+- LinkedIn: https://linkedin.com/in/hamza-alhadidi
