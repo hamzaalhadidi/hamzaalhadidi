@@ -24,4 +24,4 @@ Passionate about solving real-world problems using data-driven approaches.
 
 ## Contact
 - Email: hamzaalhadidi34@gmail.com  
-- LinkedIn: https://linkedin.com/in/hamza-alhadidi
+- LinkedIn: https://www.linkedin.com/in/hamza-alhadidi-288524291/
