@@ -8,7 +8,7 @@ Artificial Intelligence graduate with strong skills in data analysis, machine le
 Passionate about solving real-world problems using data-driven approaches.
 
 ## Skills
-- Python, SQL
+- Python, SQL, R
 - Data Analysis (Pandas, NumPy, Excel)
 - Data Visualization (Tableau, Power BI, Matplotlib)
 - Machine Learning (Scikit-learn, TensorFlow)
