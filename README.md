@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hamza Alhadidi
 
-<!--
-**hamzaalhadidi/hamzaalhadidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Graduate  
+📊 Data Analyst | Data Scientist  
 
-Here are some ideas to get you started:
+## About Me
+Artificial Intelligence graduate with strong skills in data analysis, machine learning, and data visualization.
+Passionate about solving real-world problems using data-driven approaches.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python, SQL
+- Data Analysis (Pandas, NumPy, Excel)
+- Data Visualization (Tableau, Power BI, Matplotlib)
+- Machine Learning (Scikit-learn, TensorFlow)
+- Databases: MySQL, Oracle, BigQuery
+- Tools & Development Environments: VS Code, PyCharm, Jupyter Notebook, Google Colab
+- Version Control: Git, GitHub
+
+## Featured Projects
+- Falcon 9 Booster Landing Prediction
+- Loan Status Prediction
+- CV Analyst (NLP Project)
+- Coffee Disease Detection
+
+## Contact
+- Email: hamzaalhadidi34@gmail.com  
+- LinkedIn: https://linkedin.com/in/hamza-alhadidi
