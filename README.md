@@ -23,8 +23,7 @@ Passionate about transforming data into actionable insights, building scalable s
 
 - 🚀 [Falcon 9 Booster Landing Prediction](https://github.com/hamzaalhadidi/portfolio/tree/main/projects/Falcon9_Booster_Landing)
 - 📊 [Loan Status Prediction](https://github.com/hamzaalhadidi/Portfolio/tree/main/projects/Loan_Approval_Prediction)
-- 📄 [CV Analyst (NLP Project)](portfolio/projects/CV_Analyst)
-- ☕ [Coffee Disease Detection](portfolio/projects/Coffee_Disease_Detection)
+- ☕ [Coffee Disease Detection](https://github.com/hamzaalhadidi/Portfolio/tree/main/projects/Coffee_Leaf_Disease_Classification)
 
 
 ## Contact
