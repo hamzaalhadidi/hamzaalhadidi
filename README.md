@@ -13,11 +13,11 @@ Passionate about transforming data into actionable insights, building scalable s
 - Machine Learning: Supervised & Unsupervised Learning, Model Evaluation
 - Deep Learning: Neural Networks, CNNs
 - NLP: Text Processing, Feature Extraction
-- Big Data & Databases: Spark, BigQuery, MySQL, Microsoft SQL Server, Oracle
+- Big Data & Databases: BigQuery, MySQL, Microsoft SQL Server, Oracle
 - Tools & Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn
 - Data Analytics Tools: Excel, Google Sheets, Tableau, Power BI
 - Development Environments: VS Code, PyCharm, Jupyter Notebook, Google Colab, RStudio
-- Version Control: Git, GitHub
+- Version Control: GitHub
 
 ## Featured Projects
 
