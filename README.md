@@ -24,7 +24,7 @@ Passionate about transforming data into actionable insights, building scalable s
 - 🚀 [Falcon 9 Booster Landing Prediction](https://github.com/hamzaalhadidi/portfolio/tree/main/projects/Falcon9_Booster_Landing)
 - 📊 [Loan Status Prediction](https://github.com/hamzaalhadidi/Portfolio/tree/main/projects/Loan_Approval_Prediction)
 - ☕ [Coffee Disease Detection](https://github.com/hamzaalhadidi/Portfolio/tree/main/projects/Coffee_Leaf_Disease_Classification)
-
+- 🛍️ [Customer Shopping Behavior Analysis](https://github.com/hamzaalhadidi/Portfolio/tree/main/projects/Customer_Shopping_Behavior_Analysis) 
 
 ## Contact
 - Email: hamzaalhadidi34@gmail.com  
